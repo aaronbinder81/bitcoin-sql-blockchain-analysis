@@ -46,3 +46,5 @@ Bitcoin's average price and total transaction fees during May 2015 provide insig
 • Aggregation and statistical queries  
 • Time-series analysis  
 • Financial transaction analysis
+
+results/transaction_trend_chart.png
